@@ -1,5 +1,6 @@
 ## Rust is a new programming language which had its 1.0 release in 2015:
-
+Rust was a Research project for Mozilla Since 2006.
+and now its Adoted  by top giant companies in world including US Gevernment (TRACTOR) project
 Rust is a statically compiled language in a similar role as C++
 rustc uses LLVM as its backend.
 Rust supports many platforms and architectures:
