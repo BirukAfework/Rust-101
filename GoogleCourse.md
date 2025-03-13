@@ -12,3 +12,9 @@ smart displays,
 mobile phones,
 desktops,
 servers.
+
+
+
+## Why Rust
+
+ Rust is known for its safety, speed, and concurrency features, and is used by companies like Amazon, Discord, Dropbox, Google, Meta, and Microsoft. 
