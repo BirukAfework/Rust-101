@@ -3,8 +3,6 @@ Certainly! Here's the entire content in Markdown format:
 ```markdown
 # Top Common Rust Keywords
 
-Rust has a set of **keywords** that are reserved for use by the language. These keywords have special meanings and cannot be used as identifiers (e.g., variable names, function names, etc.). Below is a list of the top Rust keywords along with explanations and examples of their usage.
-
 1. **`fn`** - Declares a function.  
    Example:
    ```rust
@@ -307,8 +305,3 @@ Rust has a set of **keywords** that are reserved for use by the language. These 
     ```rust
     use crate::my_module::my_function;
     ```
-
-These are the **top Rust keywords** that you’ll encounter frequently while writing Rust code. Understanding their purpose and usage is key to mastering the language! Let me know if you’d like further clarification on any of these. 🚀
-```
-
-This is fully formatted Markdown for use on GitHub. Just paste this into a Markdown file or README to have it properly formatted.
